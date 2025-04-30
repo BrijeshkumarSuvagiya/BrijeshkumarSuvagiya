@@ -32,4 +32,5 @@
 # <h3 align="start">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 
 - www.linkedin.com/in/brijesh-suvagiya-68b3101a5
+- https://brijeshkumarsuvagiya.github.io/Personal-Portfolio/
 
